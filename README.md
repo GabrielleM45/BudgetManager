@@ -5,5 +5,5 @@ A simple budget manager that allows input of items, render budget items, sort by
 
 
 Created During Review session with:
-## Author
-* **Sarah Cullen** - *Initial HTML/CSS*
+Author
+Sarah Cullen** - *Initial HTML/CSS*
